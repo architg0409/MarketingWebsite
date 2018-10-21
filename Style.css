@@ -1,0 +1,25 @@
+footer{
+    padding:10px 0px;
+    background-color:rgb(105,105,105);
+    color:rgb(255,255,255);
+    bottom:0;
+    width:100%;
+    
+}
+.row_style{
+    margin-top:100px;
+    margin-bottom:450px; 
+}
+.navbar-default {
+    background-color: rgb(105,105,105);
+}
+.navbar-default .navbar-header .navbar-toggle .icon-bar {
+    background-color: rgb(255,255,255);
+}
+.navbar-default .navbar-nav > li > a {
+    color: rgb(255,255,255);
+}
+.footer_style:hover{
+    text-decoration: none;
+    color: black;
+}
